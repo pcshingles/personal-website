@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  align-content: center;
+  align-items: center;
+  font-family: "Helvetica Neue", serif;
+  background-color: #00707a;
+  font-size: 2em;
+}
+
+#LandingContainer {
+  position: absolute;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+#LandingText {
+  margin: auto;
+  width: 50%;
+  top: 25%;
+  font-size: 1.2em;
+  color: #b6b7b0;
+}
+
+.ContainerDiv{
+  margin: auto;
+  top: 100% !important;
+  height: 100% !important;
+  background-color: #00707a;
+}
+
+.Grid{
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
