@@ -7,6 +7,7 @@ import Contact from "./Contact";
 import About from "./About";
 import Home from "./Home";
 import MainHeader from "./MainHeader";
+import StickyFooter from 'react-sticky-footer';
 
 export default class AppBody extends Component{
   render() {

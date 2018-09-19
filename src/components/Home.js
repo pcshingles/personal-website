@@ -11,7 +11,11 @@ export default class Home extends Component{
             </Header>
             <p>
               Hello and welcome to my page! My name is Paul Shingleton and I am a Software Engineer by trade,
-              and an adventurer by heart. I made this website for fun and for the experience.
+              and an adventurer by heart.
+
+              This is by no means my 'sales pitch'*, I made this website for the fun and the experience!
+              <br/>
+              <i>*Please regard the 'resume' tab for a concise display of such business.</i>
             </p>
           </Segment>
         </Container>
@@ -22,12 +26,13 @@ export default class Home extends Component{
             <Grid.Column width={8}>
           <Segment>
             <Header>
-              Student.
+              Student
             </Header>
             <p>
               I am a Senior at Worcester Polytechnic Institute (WPI) majoring in Computer Science with
-              a minor in Data Science. I focus heavily on Design, having my most important classes
-              focus on things like Object Orient Analysis and Design and Software Engineering, etc. I am also
+              a minor in Data Science. I love making things work and doing it in the most efficient, scalable manner.
+              I focus heavily on Design, having my most important classes
+              focus on things like Object Orient Analysis and Design, Software Engineering, etc. I am also
               passionate in data science, having experiences in AI/ML, visualization, databases, and more.
             </p>
             <Header>
