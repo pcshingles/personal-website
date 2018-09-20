@@ -33,7 +33,7 @@ export default class Adventures extends Component {
         <AdventureRow header={"Peru"}
                       photo={require("../images/peruvianMtn.jpg")}
                       text={"In the Summer of May 2018, me and two friends travelled" +
-                      "across the world to Cusco, Peru, to hike through the Andes Mountains" +
+                      "across the world to Cusco, Peru, to hike through the Andes Mountains " +
                       "and end up at Machu Picchu. We flew out from Boston Logan Airport" +
                       "to Miami, Florida, where we then connected to a flight going to Lima, Peru." +
                       "From there, we stayed in a hostel for 4 hours of rest and then made our way back to the airport" +
