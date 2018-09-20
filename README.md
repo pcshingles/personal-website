@@ -1,4 +1,4 @@
-[Link to my website!](paul-shingleton.herokuapp.com)
+[Link to my website!](https://paul-shingleton.herokuapp.com)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
