@@ -1,3 +1,5 @@
+[Link to my website!](paul-shingleton.herokuapp.com)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 This is the beginning of my personal website. It is very low fiedlity and I used it to learn React. I chose react because it's one of the most popular front-end JS+ libraries being used today, and for good reason: it's easy to use. There are probably a few anti-patterns within this project (not using React classes for boilerplate code in some cases), but I started this particular website with no knowledge of how to use React. I've gained some skills this summer on my internship that I've brought to this site, so it's a mixture of me applying better knowledge, and a spaghetti-sandbox. I have learned so much about web-dev from doing this, I can actually understand how CSS works now, thanks to the chrome dev-tools! (Don't look at the css it was not scaled properly in the slightest!) In the future my sites will never be this bad.
