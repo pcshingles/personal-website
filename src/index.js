@@ -7,8 +7,8 @@ import { BrowserRouter } from "react-router-dom";
 import App from "./components/App";
 
 ReactDOM.render(
-  <div className="App">
-    <div className="wrap">
+  <div className="App" id='div'>
+    <div className="wrap" id='div'>
       <BrowserRouter>
         <App/>
       </BrowserRouter>

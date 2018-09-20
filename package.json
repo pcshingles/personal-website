@@ -4,10 +4,8 @@
   "private": true,
   "dependencies": {
     "heroku": "^7.7.8",
-    "node-sass": "^4.9.3",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-pdf": "^3.0.5",
     "react-router-dom": "^4.3.1",
     "react-scripts": "1.1.4",
     "react-sticky-footer": "0.1.0-rc3",

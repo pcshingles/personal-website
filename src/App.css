@@ -1,39 +1,112 @@
 .wrap {
-  text-align: center;
-  align-content: center;
-  align-items: center;
-  font-family: "Helvetica Neue", serif;
-  background-color: #00707a;
-  font-size: 2em;
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    font-family: "Helvetica Neue", serif;
+    background-color: #00707a;
+    font-size: 2em;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.wrap p{
+    font-family: "Helvetica Neue", serif;
+    font-size: 1em;
+}
+
+.wrap #div {
+    background-color: #00707a;
 }
 
 #LandingContainer {
-  position: absolute;
-  width: 100% !important;
-  height: 100% !important;
+    position: absolute;
+    width: 100% !important;
+    height: 100% !important;
 }
 
 #LandingText {
-  margin: auto;
-  width: 50%;
-  top: 25%;
-  font-size: 1.2em;
-  color: #b6b7b0;
+    margin: auto;
+    width: 50%;
+    top: 25%;
+    font-size: 1.2em;
+    color: #ffffff;
+    background-color: rgba(0,0,0,0) !important;
 }
 
+.Grid {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+#resume{
+    height: 1028px;
+}
+
+#tall {
+    height: 100%;
+    background-color: #00707a;
+}
+
+.c15 {
+    margin: 0 !important;
+    padding: 0;
+}
+
+.ui.grid {
+    min-height: 100%;
+}
+
+div.row {
+
+}
+
+#homeSeg {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.ui.segment{
+    background-color: rgba(27,28, 29, 0.85);
+    color: #adadad;
+}
+.ui.segment:hover{
+    background-color: rgba(27,28, 29, 1);
+}
+
+.ui.header{
+    color: #ffffff;
+}
+
+#ContainerDiv{
+    background-image: url('./images/grid-3227320_1920.jpg') !important;
+    background-size: 100% auto;
+    height: 100%;
+    padding-top: 20px;
+    padding-bottom: 80px;
+}
 .ContainerDiv{
-  margin: auto;
-  top: 100% !important;
-  height: 100% !important;
-  background-color: #00707a;
+    background-size: 100% auto;
+    padding-top: 14px;
+    padding-bottom: 60px;
+}
+#ContainerDiv .ui.segment{
+
+}
+.ui.inverted.segment{
+    margin: 0;
 }
 
-.Grid{
-  margin-left: auto !important;
-  margin-right: auto !important;
+div .ui.text.container{
+    margin-left: 20px !important;
+    left:0;
+}
+
+#impression{
+    font-size : 1.25em;
+}
+
+#AdventureContainer{
+    padding-bottom: 0;
 }

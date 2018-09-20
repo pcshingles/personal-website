@@ -4,7 +4,7 @@ import StickyFooter from "react-sticky-footer";
 export default class Footer extends Component {
   render(){
     return(
-      <StickyFooter
+      <StickyFooter id="footer"
         bottomThreshold={50}
         normalStyles={{
           backgroundColor: "#00707a",

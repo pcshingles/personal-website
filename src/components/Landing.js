@@ -1,9 +1,10 @@
 import React, { Component } from 'react'
 import { Container, Loader, Segment } from "semantic-ui-react";
-import LandingImage from '../images/grid-3227320_1920.jpg'
+import LandingImage from '../images/wpi.jpg'
 
 let sectionStyle = {
-  backgroundImage: "url(" + LandingImage + ")"
+  backgroundImage: "url(" + LandingImage + ")",
+  "background-size": "100% auto"
 };
 export default class Landing extends Component{
 

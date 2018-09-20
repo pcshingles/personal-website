@@ -5,8 +5,9 @@ export default class MainHeader extends Component{
   render(){
     return(
         <Segment inverted color='black'>
-          <Header as='h3' textAlign={'left'}>
-            <Image src={require('../images/me_portrait.jpg')} circular/>
+          <Image src={require('../images/me_portrait.jpg')} size='small' centered circular/>
+          <Header as='h3' textAlign={'center'}>
+
             Paul Shingleton
           </Header>
         </Segment>
